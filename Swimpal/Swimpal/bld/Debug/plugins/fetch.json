@@ -1,0 +1,14 @@
+{
+    "com.phonegap.plugins.bluetooth": {
+        "source": {
+            "type": "local",
+            "path": "E:\\Licenta\\Licenta VS Workspace\\Swimpal\\Swimpal\\plugins\\com.phonegap.plugins.bluetooth"
+        }
+    },
+    "cordova-plugin-ble-central": {
+        "source": {
+            "type": "local",
+            "path": "E:\\Licenta\\Licenta VS Workspace\\Swimpal\\Swimpal\\plugins\\cordova-plugin-ble-central"
+        }
+    }
+}
